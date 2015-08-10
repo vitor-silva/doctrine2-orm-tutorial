@@ -113,4 +113,9 @@ class Bug
     {
         return $this->reporter;
     }
+
+    public function close()
+    {
+        $this->status = "CLOSE";
+    }
 }
