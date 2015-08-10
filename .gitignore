@@ -1,4 +1,4 @@
 db.sqlite
 vendor
 composer.lock
-.idea
+.idea/
